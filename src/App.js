@@ -46,7 +46,7 @@ const App = () => {
           onChange={updateSearch}
         />
         <button className="search-button" type="submit">
-          Search
+          Pencarian
         </button>
       </form>
       <div className="recipes">
